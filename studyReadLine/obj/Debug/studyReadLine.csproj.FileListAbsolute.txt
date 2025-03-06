@@ -1,0 +1,7 @@
+C:\Users\SAMSUNG\source\repos\studyReadLine\studyReadLine\bin\Debug\studyReadLine.exe.config
+C:\Users\SAMSUNG\source\repos\studyReadLine\studyReadLine\bin\Debug\studyReadLine.exe
+C:\Users\SAMSUNG\source\repos\studyReadLine\studyReadLine\bin\Debug\studyReadLine.pdb
+C:\Users\SAMSUNG\source\repos\studyReadLine\studyReadLine\obj\Debug\studyReadLine.csproj.AssemblyReference.cache
+C:\Users\SAMSUNG\source\repos\studyReadLine\studyReadLine\obj\Debug\studyReadLine.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\source\repos\studyReadLine\studyReadLine\obj\Debug\studyReadLine.exe
+C:\Users\SAMSUNG\source\repos\studyReadLine\studyReadLine\obj\Debug\studyReadLine.pdb
