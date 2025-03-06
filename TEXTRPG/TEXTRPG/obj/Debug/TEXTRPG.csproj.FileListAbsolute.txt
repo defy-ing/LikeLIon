@@ -1,0 +1,7 @@
+D:\LikeLion\LikeLIon\TEXTRPG\TEXTRPG\bin\Debug\TEXTRPG.exe.config
+D:\LikeLion\LikeLIon\TEXTRPG\TEXTRPG\bin\Debug\TEXTRPG.exe
+D:\LikeLion\LikeLIon\TEXTRPG\TEXTRPG\bin\Debug\TEXTRPG.pdb
+D:\LikeLion\LikeLIon\TEXTRPG\TEXTRPG\obj\Debug\TEXTRPG.csproj.AssemblyReference.cache
+D:\LikeLion\LikeLIon\TEXTRPG\TEXTRPG\obj\Debug\TEXTRPG.csproj.CoreCompileInputs.cache
+D:\LikeLion\LikeLIon\TEXTRPG\TEXTRPG\obj\Debug\TEXTRPG.exe
+D:\LikeLion\LikeLIon\TEXTRPG\TEXTRPG\obj\Debug\TEXTRPG.pdb

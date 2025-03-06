@@ -1,0 +1,7 @@
+D:\LikeLion\LikeLIon\0304task\0304task\bin\Debug\0304task.exe.config
+D:\LikeLion\LikeLIon\0304task\0304task\bin\Debug\0304task.exe
+D:\LikeLion\LikeLIon\0304task\0304task\bin\Debug\0304task.pdb
+D:\LikeLion\LikeLIon\0304task\0304task\obj\Debug\0304task.csproj.AssemblyReference.cache
+D:\LikeLion\LikeLIon\0304task\0304task\obj\Debug\0304task.csproj.CoreCompileInputs.cache
+D:\LikeLion\LikeLIon\0304task\0304task\obj\Debug\0304task.exe
+D:\LikeLion\LikeLIon\0304task\0304task\obj\Debug\0304task.pdb

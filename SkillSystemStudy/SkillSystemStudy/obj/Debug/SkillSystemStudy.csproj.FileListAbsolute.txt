@@ -1,0 +1,7 @@
+D:\LikeLion\LikeLIon\SkillSystemStudy\SkillSystemStudy\bin\Debug\SkillSystemStudy.exe.config
+D:\LikeLion\LikeLIon\SkillSystemStudy\SkillSystemStudy\bin\Debug\SkillSystemStudy.exe
+D:\LikeLion\LikeLIon\SkillSystemStudy\SkillSystemStudy\bin\Debug\SkillSystemStudy.pdb
+D:\LikeLion\LikeLIon\SkillSystemStudy\SkillSystemStudy\obj\Debug\SkillSystemStudy.csproj.AssemblyReference.cache
+D:\LikeLion\LikeLIon\SkillSystemStudy\SkillSystemStudy\obj\Debug\SkillSystemStudy.csproj.CoreCompileInputs.cache
+D:\LikeLion\LikeLIon\SkillSystemStudy\SkillSystemStudy\obj\Debug\SkillSystemStudy.exe
+D:\LikeLion\LikeLIon\SkillSystemStudy\SkillSystemStudy\obj\Debug\SkillSystemStudy.pdb

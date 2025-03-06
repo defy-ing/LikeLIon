@@ -1,0 +1,7 @@
+D:\LikeLion\LikeLIon\Basic2\Basic2\bin\Debug\Basic2.exe.config
+D:\LikeLion\LikeLIon\Basic2\Basic2\bin\Debug\Basic2.exe
+D:\LikeLion\LikeLIon\Basic2\Basic2\bin\Debug\Basic2.pdb
+D:\LikeLion\LikeLIon\Basic2\Basic2\obj\Debug\Basic2.csproj.AssemblyReference.cache
+D:\LikeLion\LikeLIon\Basic2\Basic2\obj\Debug\Basic2.csproj.CoreCompileInputs.cache
+D:\LikeLion\LikeLIon\Basic2\Basic2\obj\Debug\Basic2.exe
+D:\LikeLion\LikeLIon\Basic2\Basic2\obj\Debug\Basic2.pdb
